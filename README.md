@@ -32,7 +32,7 @@ A Corporate Novice, Expertise in Playing with Data
 
 
 ## Profile Visits.
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Shiuli1821)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=Shiuli1821.Shiuli1821)
 
 ## Github Stats.
 ![  Shiuli Das github stats](https://github-readme-stats.vercel.app/api?username=Shiuli1821&count_private=true&theme=tokyonight&hide=contribs,prs)
